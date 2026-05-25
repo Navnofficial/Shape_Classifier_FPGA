@@ -1,0 +1,57 @@
+# ── Quartus II / Quartus Prime ─────────────────────────────────────────────
+# Generated output files
+rtl/output_files/
+Qurtus_imp/
+*.qpf
+*.qws
+*.rpt
+*.sof
+*.pof
+*.rbf
+*.jic
+*.svf
+*.ttf
+*.smsg
+*.pin
+*.summary
+*.flow.rpt
+*.map.rpt
+*.fit.rpt
+*.sta.rpt
+*.asm.rpt
+*.done
+
+# Quartus database & incremental compile
+db/
+incremental_db/
+*.qdb
+*.qar
+
+# ── ModelSim / Icarus VCD ──────────────────────────────────────────────────
+modelsim.ini
+transcript
+work/
+*.vvp
+*.vcd
+*.wlf
+*.mpf
+
+# ── Python ────────────────────────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+venv/
+
+# ── OS junk ───────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Editor / IDE ──────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*~
